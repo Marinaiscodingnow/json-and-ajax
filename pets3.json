@@ -1,0 +1,39 @@
+[
+    {
+        "name": "Twilight Sparkle",
+        "species": "pony",
+        "foods": {
+            "likes": [
+                "friendship"
+            ],
+            "dislikes": [
+                "pants"
+            ]
+        }
+    },
+    {
+        "name": "Luna",
+        "species": "cat",
+        "foods": {
+            "likes": [
+                "hiding",
+                "scratching"
+            ],
+            "dislikes": [
+                "people"
+            ]
+        }
+    },
+    {
+        "name": "Luke",
+        "species": "dog",
+        "foods": {
+            "likes": [
+                "starwars"
+            ],
+            "dislikes": [
+                "sparkley lights"
+            ]
+        }
+    }
+]

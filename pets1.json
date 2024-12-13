@@ -1,0 +1,39 @@
+[
+    {
+        "name": "Littleness",
+        "species": "cat",
+        "foods": {
+            "likes": [
+                "looking outside"
+            ],
+            "dislikes": [
+                "stale food"
+            ]
+        }
+    },
+    {
+        "name": "Fatness",
+        "species": "cat",
+        "foods": {
+            "likes": [
+                "food",
+                "playing"
+            ],
+            "dislikes": [
+                "shots"
+            ]
+        }
+    },
+    {
+        "name": "Karol",
+        "species": "dog",
+        "foods": {
+            "likes": [
+                "coding"
+            ],
+            "dislikes": [
+                "error messages"
+            ]
+        }
+    }
+]

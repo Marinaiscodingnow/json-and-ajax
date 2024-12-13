@@ -1,0 +1,39 @@
+[
+    {
+        "name": "Lumbert",
+        "species": "cat",
+        "foods": {
+            "likes": [
+                "food"
+            ],
+            "dislikes": [
+                "squirt bottles"
+            ]
+        }
+    },
+    {
+        "name": "Larry",
+        "species": "chicken",
+        "foods": {
+            "likes": [
+                "birds",
+                "flowers"
+            ],
+            "dislikes": [
+                "other's opinions"
+            ]
+        }
+    },
+    {
+        "name": "hilde",
+        "species": "ladybug",
+        "foods": {
+            "likes": [
+                "painting"
+            ],
+            "dislikes": [
+                "exercise"
+            ]
+        }
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "name": "Clifford",
+        "species": "dog",
+        "foods": {
+            "likes": [
+                "red"
+            ],
+            "dislikes": [
+                "small doors"
+            ]
+        }
+    },
+    {
+        "name": "Tank",
+        "species": "goldfish",
+        "foods": {
+            "likes": [
+                "bubbles",
+                "playing dead"
+            ],
+            "dislikes": [
+                "toilets"
+            ]
+        }
+    },
+    {
+        "name": "Flash",
+        "species": "turtle",
+        "foods": {
+            "likes": [
+                "cars"
+            ],
+            "dislikes": [
+                "speed bumps"
+            ]
+        }
+    }
+]
